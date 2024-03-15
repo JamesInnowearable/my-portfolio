@@ -5,4 +5,4 @@ As a data scientist/analyst, my journey from sports coaching to research and int
 
 My-portfolio is devided into 4 directories: Scientific Articles, Data Science, Data Analysis and
 
-PS I have just started to throw together my portfolio, i hope to have the first version of my portfolio finished by the end of MArch 2024
+PS I have just started to throw together my portfolio, I hope to have the first version of my portfolio finished by the end of March 2024
